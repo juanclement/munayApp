@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1024578142134",
+    "firebase_url": "https://munayapp-2227b.firebaseio.com",
+    "project_id": "munayapp-2227b",
+    "storage_bucket": "munayapp-2227b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024578142134:android:8a0c45a27e9832b9",
+        "android_client_info": {
+          "package_name": "com.example.user.munayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024578142134-s716sc9av4i6vid5kgmcmr21n36dk07h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.munayapp",
+            "certificate_hash": "8200d2851d19dd4aa2f7f2b98804ad200d8b5ccf"
+          }
+        },
+        {
+          "client_id": "1024578142134-4so89pvibdvcue74e10ktqjv9m5qu287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJykYv2rAemyvAi-XcV6cwtgJqkIWOY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024578142134-4so89pvibdvcue74e10ktqjv9m5qu287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
